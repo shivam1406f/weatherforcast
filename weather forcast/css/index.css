@@ -1,0 +1,22 @@
+ /* css resat for the homr page  */
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+/* css for the join button  */
+#mybtn{
+
+  text-align: center;
+}
+
+/* footer css 
+ */
+ #footerbox{
+     background-color: rgb(15, 15, 15);
+ }
+
+ /* footer link css  */
+ #footerbox a{
+   color: rgb(245, 240, 240);
+ }
